@@ -1,0 +1,6 @@
+﻿# Environment & temp files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
